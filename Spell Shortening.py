@@ -1,5 +1,5 @@
-/* https://www.codechef.com/problems/SHORTSPELL */
- //Starters 117
+# https://www.codechef.com/problems/SHORTSPELL 
+# Starters 117
 
 
 #include<bits/stdc++.h>
