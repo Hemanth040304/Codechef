@@ -1,4 +1,4 @@
-/* https://www.codechef.com/problems/NPRPE */
+// https://www.codechef.com/problems/NPRPE 
 //  Starters 117
 
 #include<bits/stdc++.h>
