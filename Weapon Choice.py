@@ -1,5 +1,5 @@
-/* https://www.codechef.com/problems/WEPCH?tab=statement */
-//  Starters 117 
+# https://www.codechef.com/problems/WEPCH?tab=statement 
+#  Starters 117 
 
 
 import math
