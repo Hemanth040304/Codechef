@@ -13,7 +13,7 @@ using pl = pair<ll,ll>;
 using pd = pair<db,db>;
 using pci = pair<char,int>;
 using pcl = pair<char,ll>;
-using pcd = pair<char,db>;
+using pcd = pair<char,db>; 
 #define mp make_pair
 #define f first
 #define s second
